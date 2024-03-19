@@ -12,3 +12,4 @@ let mod = num3 % num4;
 console.log(mod); // Output should be 4
 let max = Math.max(10, 15, 20, 5);
 console.log(max); // Output should be 20
+
